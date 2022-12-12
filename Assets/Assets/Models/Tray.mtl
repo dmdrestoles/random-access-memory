@@ -1,0 +1,12 @@
+# Blender MTL File: 'Tray.blend'
+# Material Count: 1
+
+newmtl TrayBase
+Ns 369.510807
+Ka 0.787402 0.787402 0.787402
+Kd 0.149809 0.149809 0.149809
+Ks 0.228346 0.228346 0.228346
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
